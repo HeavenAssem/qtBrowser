@@ -1,3 +1,3 @@
 # qtBrowser
-Mini web-browser, written with qt5
+Mini web-browser, written with qt5. 
 Just overwieving qt capabilities
